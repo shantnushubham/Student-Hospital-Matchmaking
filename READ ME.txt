@@ -5,9 +5,6 @@ Stability Checker Code: Assignment_1_Hospital_Resident_code_Stability_Checker.ip
 
 CSV file has been used for both input and outpit file
 
-Team Member:
-Name : Aruna Kamireddy
-Email: kamireddy.7@wright.edu
-
-Name: Neha Priyadarshani
-Email: priyadarshani.2@wright.edu
+Done by:
+Name : Shantanu Shubham
+Email: shantanu0707@gmail.com
