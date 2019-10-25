@@ -1,0 +1,13 @@
+Input file name is : Input_file.csv
+Output file name is : output_file.csv
+Source code file name is : Assignment_1_Hospital_Resident_code_Final.ipynb
+Stability Checker Code: Assignment_1_Hospital_Resident_code_Stability_Checker.ipynb
+
+CSV file has been used for both input and outpit file
+
+Team Member:
+Name : Aruna Kamireddy
+Email: kamireddy.7@wright.edu
+
+Name: Neha Priyadarshani
+Email: priyadarshani.2@wright.edu
